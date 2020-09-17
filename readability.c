@@ -65,7 +65,8 @@ int main(void)
 
 }
 
-//function isalpha will probably look like this.
+//function isalpha for upper or lowercase letters only will probably look something like this: 
+
 // for (int i = 0, n = strlen(text); i < n; i++)
 // {
 //     if ((text[i] >= 'a' && text[i] <= 'z') || (text[i] >= 'A' && text[i] <= 'Z'))
